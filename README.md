@@ -3,10 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Malaika, a full-time frontend developer 👨‍💻 and a CS undergraduate🎓</div>  
-  
-
-- 🔭 I’m currently working on building a shopping cart using React and Typescript  
+# <div align="center">I'm Malaika, a full-time Frontend Engineer 👨‍💻 and a CS Graduate🎓</div>  
   
 
 - 🌱 I’m currently learning about Blockchain and Smart contracts  
