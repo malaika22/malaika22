@@ -1,72 +1,72 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-# <div align="center">I'm Malaika, a full-time Frontend Engineer 👨‍💻 and a CS Graduate🎓</div>  
-  
-
-- 🌱 I’m currently learning about Blockchain and Smart contracts  
-  
-
-- ❓ Ask me about anything related to Reactjs and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-</div>  
-
-<br/>  
- 
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/malaika22" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/malaika-afridi-4799541b4" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/malaika.afridi.144" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=malaika22&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malaika22&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
+<!-- ✏️ Replace before using: `your-username` (your GitHub handle), the social links, portfolio domain, and add your banner/photo. -->
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
 
-<br />
+# Hey, I'm Malaika 👋
 
+**I build products for a living — and for fun. Can't really tell them apart.**
+Senior frontend engineer · Indie hacker · MVP builder · perpetually shipping 🚀
+
+<a href="https://yourdomain.com"><img src="https://img.shields.io/badge/Portfolio-241E1A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=your-username&color=F0567A&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+### 🚀 Currently building
+
+- 🧪 **AI Website Engineer** — audits your site's technical SEO + AI-visibility, then ships the fixes as clean pull requests. *(in progress)*
+- ✈️ **Rawaana** — a Schengen visa-readiness tool that helps travellers self-apply with confidence: real funds guidance, a proper itinerary, and no shady consultant required. *(building)*
+- 📡 Building in public — follow the messy middle on X.
+- 💬 Bring me a napkin sketch or a 90%-done mess — either way, it ships.
+
+### 🛠️ What I actually do
+
+```ts
+const malaika = {
+  builds:   ["MVPs, start to finish", "product sites & PWAs"],
+  rescues:  ["stalled projects", "vibe-coded messes that stopped at the demo"],
+  cares_about: "the 5% everyone skips — loading, empty & error states",
+  motto:    "I design my empty states before my happy path.",
+};
+```
+
+### ✨ Featured work
+
+| Project | What it is | |
+| --- | --- | --- |
+| **Villa TimTavio — Lookbook** | Cinematic, chaptered scrollytelling for a luxury estate — snap-scroll, ambient sound, the works | [🔗 Live](https://www.villatimtavio.com/lookbook) |
+| **Villa TimTavio — Estate Platform** | Guest-facing PWA + operational dashboards to run the whole property | 🔒 Client |
+| **PriceIQ** | FastAPI pipeline that reads supplier PDFs, scrapes competitor prices & reports where a clinic is overpaying | 🔒 Client |
+
+### 🧰 Stack I build with
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+
+<div align="center">
+
+### 🤝 Got something to build?
+
+Tell me what you're making and where it's stuck — I reply myself, usually within a day.
+
+**[📬 Start a project →](mailto:hello@yourdomain.com)**
+
+<sub><i>Shipping since way before the AI could do the boring 5% for me.</i></sub>
+
+</div>
