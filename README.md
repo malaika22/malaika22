@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hey, I'm Malaika 👋
+<img src="https://readme-typing-svg.demolab.com?font=Schibsted+Grotesk&weight=700&size=30&pause=1000&color=F0567A&center=true&vCenter=true&width=760&height=70&lines=Hey%2C+I'm+Malaika+%F0%9F%91%8B;I+turn+ideas+into+shipped+products;I+build+MVPs+%E2%80%94+and+rescue+the+ones+AI+half-built" alt="Hey, I'm Malaika" />
 
 **I build products for a living — and for fun. Can't really tell them apart.**
 Senior frontend engineer · Indie hacker · MVP builder · perpetually shipping 🚀
